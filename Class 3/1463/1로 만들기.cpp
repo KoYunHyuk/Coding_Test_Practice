@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 
-using namespace std;
+using namespace std; // S3
 
 int main() {
 	int N;
