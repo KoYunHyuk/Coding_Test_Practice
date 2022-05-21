@@ -1,6 +1,6 @@
 #include <iostream>
-#include <queue>
 #include <algorithm>
+#include <vector>
 
 using namespace std; // S3
 
@@ -9,8 +9,6 @@ vector<int> Pn;
 
 int main() {
 	cin >> N;
-
-	priority_queue<int> pq;
 	
 	int p;
 	for (int i = 0; i < N; i++) {
